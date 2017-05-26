@@ -1,0 +1,26 @@
+/.gradle/
+/.settings/
+/bin/
+/build/
+/config/
+/crash-reports/
+/debug/
+/eclipse/
+/logs/
+/mods/
+/resourcepacks/
+/saves/
+/screenshots/
+
+#IDEA files from Gradle
+.idea/
+/*.iml
+/*.ipr
+/*.iws
+
+/*.txt
+/*.log
+
+/.classpath
+/.project
+/usernamecache.json
